@@ -22,3 +22,8 @@ Thumbs.db
 # Ignore environment files
 .env
 .env.local
+
+# Ignore configuration files at root level
+/package.json
+/package-lock.json
+/tsconfig.json
