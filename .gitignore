@@ -26,4 +26,6 @@ Thumbs.db
 # Ignore configuration files at root level
 /package.json
 /package-lock.json
-/tsconfig.json
+/tsconfig.json 
+
+/remove
